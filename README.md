@@ -1,4 +1,4 @@
-# whoSpeaking
+# who Speaking
 
 ### TCHNOLOGIES
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" width = "5%" >
